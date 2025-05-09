@@ -1,7 +1,5 @@
 # github-final-project   
- ![Image][1]
-⋮
-[1]: http://url/b.jpg
+ 
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
